@@ -10,7 +10,9 @@ This is tool is used for Security , Intergrity , Confidentiality**
      ``` pip install cryptography ```
      
    * Pillow
+     
      ``` pip install Pillow ```
    
    * Tkinter
+
      ``` pip install tkinter ```
