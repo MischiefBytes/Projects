@@ -4,6 +4,13 @@
 This is tool is used for Security , Intergrity , Confidentiality**
 
 ## Requirements
-   * pip install cryptography
-   * pip install Pillow
-   * pip install tkinter
+    
+   * Cryptography
+    
+     ``` pip install cryptography ```
+     
+   * Pillow
+     ``` pip install Pillow ```
+   
+   * Tkinter
+     ``` pip install tkinter ```
